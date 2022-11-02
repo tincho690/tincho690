@@ -5,7 +5,7 @@
 
 - 👯 Me gusta colaborar en **java, C#, html, css, javascript, vba**
 
-- 👨‍💻Todos mis proyectos están disponibles en [http://imf.duckdns.org:3000/](http://imf.duckdns.org:3000/)
+- 👨‍💻Algunos de mis proyectos están disponibles en [http://imf.duckdns.org:3000/](http://imf.duckdns.org:3000/)
 
 - 📫 Contactarme **contacto.martinf@gmail.com**
 
